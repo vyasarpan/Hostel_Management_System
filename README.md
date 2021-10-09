@@ -1,1 +1,1 @@
-# Hostel_Management_System
+# Management_System
